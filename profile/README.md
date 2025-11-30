@@ -1,4 +1,4 @@
-# 🧱 usechunk — The Open Modding Platform
+# 🧱 usechunk — The Easy To Use Minecraft Modding Platform
 
 Chunk is an open-source, ad-free ecosystem that makes installing, managing, and building modded Minecraft simple, reliable, and fast.
 
