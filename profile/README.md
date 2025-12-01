@@ -15,8 +15,7 @@ A powerful, developer-friendly command-line tool for installing mods, managing m
 Think *Homebrew for Minecraft mods*.
 
 ### **[Chunk App](https://github.com/usechunk/chunk-app)**
-A simple, lightweight GUI for browsing mods, installing packs, and managing your Minecraft instances—  
-without ads, bloat, or a heavy client.
+A simple, lightweight GUI for browsing mod metadata served from the api. No ads, bloat, or a heavy client.
 
 ### **[ChunkHub Registry](https://github.com/usechunk/chunk-api)**
 A metadata registry for Chunkfiles (like formulas) that describe mods, modpacks, dependencies, and installation logic.  
